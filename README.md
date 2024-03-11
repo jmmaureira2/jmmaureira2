@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm new, i hope learn about AI and Web Design.
 <!--
 **jmmaureira2/jmmaureira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
